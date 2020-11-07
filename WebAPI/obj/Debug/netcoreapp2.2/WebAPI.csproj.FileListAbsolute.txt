@@ -1,0 +1,42 @@
+E:\ASPDotnet Core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\ASPDotnet Core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\ASPDotnet Core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\ASPDotnet Core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\ASPDotnet Core\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\ASPDotnet Core\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+E:\ASPDotnetCore\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\ASPDotnetCore\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\ASPDotnetCore\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\ASPDotnetCore\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\ASPDotnetCore\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\ASPDotnetCore\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+E:\API-MVC\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+E:\API-MVC\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+E:\API-MVC\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+E:\API-MVC\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+E:\API-MVC\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+E:\API-MVC\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
